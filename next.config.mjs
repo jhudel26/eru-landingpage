@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  distDir: process.env.VERCEL ? 'src/.next' : '.next',
   poweredByHeader: false,
   reactStrictMode: true,
   images: {
