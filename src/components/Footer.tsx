@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { Logo } from './Logo';
-import { Github, Twitter, MessageSquare, Youtube, ChevronUp } from 'lucide-react';
+import { Github, ChevronUp } from 'lucide-react';
 
 const navLinks = {
   Product: [
@@ -23,9 +23,6 @@ const navLinks = {
 
 const socialLinks = [
   { icon: Github, href: 'https://github.com/jhudel26/Eru_Movies', label: 'GitHub' },
-  { icon: Twitter, href: '#', label: 'Twitter' },
-  { icon: MessageSquare, href: '#', label: 'Discord' },
-  { icon: Youtube, href: '#', label: 'YouTube' },
 ];
 
 interface FooterProps {
