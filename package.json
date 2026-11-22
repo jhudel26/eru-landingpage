@@ -9,9 +9,6 @@
   },
   "homepage": "https://github.com/jhudel26/eru-landingpage",
   "private": true,
-  "engines": {
-    "node": ">=18.17.0"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
