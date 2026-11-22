@@ -13,6 +13,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
 
+<br />
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jhudel26/eru-landingpage)
+
 ---
 
 *Developed by **EruStudio** · Built for [ERU Movies Desktop App](https://github.com/jhudel26/Eru_Movies)*
