@@ -18,7 +18,7 @@ const featuredMovies = [
 ];
 
 function buildVidyUrl(tmdbId: number | string) {
-  return `https://www.vidy.st/movie/315162?color=2CBFDD&autoplay=true`;
+  return `https://www.vidy.st/movie/315162?color=DC2626&autoplay=true`;
 }
 
 export function Screenshots({ id }: ScreenshotsProps) {
@@ -201,7 +201,7 @@ export function Screenshots({ id }: ScreenshotsProps) {
                   key={iframeSrc}
                   src={iframeSrc}
                   title={`Watch ${selectedMovie.title}`}
-                  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+                  allow="autoplay; fullscreen; encrypted-media; picture-in-picture; unload"
                   allowFullScreen
                   style={{
                     position: 'absolute',
