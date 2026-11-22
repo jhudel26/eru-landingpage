@@ -1,0 +1,9 @@
+# ERU Movies - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://eru-movies.vercel.app/sitemap.xml
+
+# Host
+Host: https://eru-movies.vercel.app

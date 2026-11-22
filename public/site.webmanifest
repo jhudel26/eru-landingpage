@@ -1,0 +1,36 @@
+{
+  "name": "ERU Movies",
+  "short_name": "ERU",
+  "description": "A beautiful desktop streaming platform for movies & TV shows",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1120",
+  "theme_color": "#14B8A6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "video"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Download for Windows",
+      "short_name": "Windows",
+      "description": "Download ERU for Windows",
+      "url": "/#download",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Get Android APK",
+      "short_name": "Android",
+      "description": "Download ERU for Android",
+      "url": "/#download",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    }
+  ]
+}

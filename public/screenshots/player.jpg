@@ -1,0 +1,13 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#0B1120"/>
+  <rect x="100" y="100" width="1000" height="475" rx="16" fill="url(#gradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1000" y2="475" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#141E2E"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+  </defs>
+  <text x="600" y="300" text-anchor="middle" font-family="system-ui, sans-serif" font-size="32" font-weight="bold" fill="#14B8A6">ERU Movies</text>
+  <text x="600" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#94A3B8">Screenshot Placeholder</text>
+  <text x="600" y="390" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748B">Add actual screenshots to /public/screenshots/</text>
+</svg>
